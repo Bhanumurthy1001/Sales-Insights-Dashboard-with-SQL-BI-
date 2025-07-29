@@ -54,4 +54,75 @@ AtliQ Hardware, a retail hardware company, lacked visibility into its sales perf
 ---
 
 ## 📁 Folder Structure
+Sales-Insights-Dashboard/
+│
+├── SQL/
+│ ├── create_tables.sql
+│ ├── insert_data.sql
+│ └── analysis_queries.sql
+│
+├── PowerBI/
+│ └── Sales_Insights_Dashboard.pbix
+│
+├── Docs/
+│ ├── Project_Presentation.pptx
+│ ├── Final_Report.pdf
+│ └── Data_Dictionary.xlsx
+│
+├── Screenshots/
+│ ├── dashboard_overview.png
+│ ├── profit_analysis.png
+│ └── performance_insights.png
+│
+└── README.md
+
+yaml
+Copy
+
+---
+
+## 📸 Dashboard Previews
+
+### 🔹 Key Insights Dashboard
+![Key Insights](Screenshots/dashboard_overview.png)
+
+### 🔹 Profit Analysis Dashboard
+![Profit](Screenshots/profit_analysis.png)
+
+### 🔹 Performance Insights Dashboard
+![Performance](Screenshots/performance_insights.png)
+
+---
+
+## 📌 Key Insights
+
+- Real-time sales monitoring with drill-down capabilities
+- Product-level profit margin analysis
+- Monthly and regional sales breakdown
+- Segmentation of customers based on purchasing patterns
+
+---
+
+## ✅ Results & Outcomes
+
+- 📊 Improved visibility into business metrics
+- 💰 Identified top-performing and low-performing products
+- 📈 Forecasted opportunities for a 7% revenue growth
+- 📍 Strategic insights for better marketing and inventory decisions
+
+---
+
+## 👨‍💻 Author
+
+**Bhanu Murthy Allada**  
+💼 Senior Cloud/DevOps AI Engineer  
+🌐 [LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://yourportfolio.com) • [GitHub](https://github.com/yourusername)
+
+---
+
+## 🙌 Let’s Collaborate
+
+If you liked this project or want to collaborate on something similar, feel free to star ⭐ the repo, fork 🍴 it, or raise an issue!
+
+
 
